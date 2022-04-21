@@ -1,0 +1,8 @@
+upgrade1B,Upgraded Main Thrusters,A more powerful engine will be developed for the ship.,Acceleration and Top Speed Increased,300
+upgrade2B,Upgraded Turning Thrusters,An upgrade to the turning thrusters increases rotation speed.,Faster Rotation Speed,400
+upgrade3B,High Capacity Tanks,The AI designs a new system that pressurizes hydrogen at a high pressure.,More fuel can be stored per mission+ Increased Range,600
+upgrade4B,Reworked Reverse Thrusters,The fuel pipings get reworked for massive increase in thrust,Reverse Thrust Increased,200
+upgrade5B,High Powered Radar,On-board ship radar is more efficient at finding areas of hydrogen rich asteroids,Increased Hydrogen Asteroid Chance,1500
+upgradeB1,More Efficient Generators,AI improves current power generation designs to increase output.,Energy/Ton of Hydrogen Increased,150
+upgradeB2,Research Solar Panels,Computing power will improve the long ignored solar panel technology.,Generates 125GW/level for Earth's Computers,250
+upgradeB3,Expand Miner Fleet,Dedicate some computing power to fly more miner ships.,Generates 2TW/level for Earth's Computers,4000
